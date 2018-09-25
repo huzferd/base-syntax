@@ -1,4 +1,4 @@
-Time to Practice - The Base Syntax
+# Time to Practice - The Base Syntax
 
 You learned a lot about the base syntax and features of React, now it's time to practice all the things you learned!
 
